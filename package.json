@@ -70,7 +70,7 @@
         "jsonc-parser": "^3.3.1",
         "knip": "^5.88.1",
         "minimist": "^1.2.8",
-        "mocha": "^10.8.2",
+        "mocha": "^12.0.0",
         "mocha-fivemat-progress-reporter": "^0.1.0",
         "monocart-coverage-reports": "^2.12.9",
         "ms": "^2.1.3",
